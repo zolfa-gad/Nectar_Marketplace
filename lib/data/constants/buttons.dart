@@ -1,0 +1,10 @@
+const String getStartedButton = 'Get Started';
+const String logInButton = 'Log In';
+const String signUpButton = 'Sign Up';
+const String logOutButton = 'Log Out';
+const String addToBasketButton = 'Add To Basket';
+const String submitButton = 'Submit';
+const String checkButton = 'Go to Checkout';
+const String addAllCartButton = 'Add All To Cart';
+const String placeOrderButton = 'Place Order';
+const String addCardButton = 'Add Your Card';
