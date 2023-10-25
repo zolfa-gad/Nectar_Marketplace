@@ -31,9 +31,6 @@ Online grocery shopping app with register, log in, log out, add to cart, remove 
 * [dio](https://pub.dev/packages/dio) package to get data from the API.
 * [shared_preferences](https://pub.dev/packages/shared_preferences) package.
 * [carousel_slider](https://pub.dev/packages/carousel_slider) package.
-* [flutter_typeahead](https://pub.dev/packages/flutter_typeahead) package.
-* [intl_phone_field](https://pub.dev/packages/intl_phone_field) package.
-* [fluttertoast](https://pub.dev/packages/fluttertoast) package.
 
 
 # Get The App
